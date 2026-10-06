@@ -474,39 +474,10 @@ CNN • RNN • LSTM • GANs • Embeddings • RAG • Vector Databases
 ---
 
 # 🏆 What Makes My Profile Competitive
-I am intentionally building a profile that combines several valuable layers:
-
-### 1. Business Understanding
-
-I understand analytics from a business and commerce perspective.
-
-### 2. Analytical Skills
-
-I can clean, explore, summarize, visualize, and interpret data.
-
-### 3. Technical Skills
-
-I work with Python, SQL, Excel, Power BI, R, and machine learning tools.
-
-### 4. Machine Learning
+I am intentionally building a profile that combines several valuable layers. I have a pretty good understanding of the analytics from a business and finance perspective. I can clean, explore, summarize, visualize and interpret data. I work with Python, SQL, Excel, Power BI, R and machine learning tools.
 
 I can move from descriptive analytics toward predictive modelling.
-
-### 5. AI
-
-I'm developing skills in deep learning, NLP, RAG, embeddings, and modern AI applications.
-
-### 6. Engineering
-
-I'm building familiarity with Git, Docker, APIs, cloud environments, and containerized workloads.
-
-### 7. End-to-End Thinking
-
-Rather than learning isolated tools, I aim to understand the complete journey:
-
-> **Data → Analysis → Model → Application → Decision**
-
----
+I'm developing skills in deep learning, NLP, RAG, embeddings, and modern AI applications. I'm building familiarity with Git, Docker, APIs, cloud environments, and containerized workloads. Rather than learning isolated tools, I aim to understand the complete journey:
 
 # 🎯 Career Focus
 I'm particularly interested in opportunities across:
